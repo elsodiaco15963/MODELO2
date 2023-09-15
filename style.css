@@ -1106,6 +1106,7 @@ ul.lista-problemas li img, ul.lista-marcas li img {
     height: 150px;
     margin: auto;
     overflow: hidden;
+    background-color: #444;
 }
 
 .slider_marcas .slider-track {
